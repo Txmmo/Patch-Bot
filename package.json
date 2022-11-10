@@ -1,0 +1,22 @@
+{
+  "name": "patch-bot",
+  "version": "1.0.0",
+  "description": "RaijuBot will be the first Discord Bot I have created using Javascript. As this project is still WIP this repository only acts as a template for current and future Discord Bot projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Txmmo/Raiju-Bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Txmmo/Raiju-Bot/issues"
+  },
+  "homepage": "https://github.com/Txmmo/Raiju-Bot#readme",
+  "dependencies": {
+    "discord.js": "^14.6.0"
+  }
+}
